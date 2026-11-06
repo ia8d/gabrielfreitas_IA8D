@@ -1,4 +1,4 @@
-# Hi 👋, I'm Gabriel Silva
+# Hi 👋, I'm Gabriel Freitas
 
 🚀 **Applied AI Engineer | Especialista em Automação & Integração de Sistemas**  
 🎓 Graduando em Inteligência Artificial e Machine Learning (UniCesumar)  
