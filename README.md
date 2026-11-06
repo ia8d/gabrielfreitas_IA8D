@@ -68,7 +68,13 @@ Com base acadêmica em Machine Learning e experiência prática como Co-Founder 
 
 ---
 
+---
+
 ## 🚀 Filosofia de Engenharia
 
-> _"A verdadeira inovação em IA exige fundações sólidas de engenharia e segurança (Security by Design). O foco não é apenas orquestrar o modelo mais recente, mas garantir escalabilidade, conformidade estrita com a LGPD e proteção de dados ponta a ponta. Em um cenário global de ameaças cibernéticas crescentes, uma arquitetura de negócios só tem valor se for, antes de tudo, resiliente contra ataques e inviolável para o usuário."
+> _"Sistemas de IA devem ser construídos sobre fundações sólidas de engenharia de software. O foco não é apenas integrar o modelo mais recente, mas garantir que a solução final seja escalável, alinhada à regra de negócios e segura por excelência. Uma automação só entrega valor real quando roda com alta disponibilidade, protege a integridade da operação e respeita rigorosamente a privacidade e os dados do usuário (LGPD)."_
+
+---
+
+⭐ Explorando formas de escalar produtos e processos B2B com Inteligência Artificial, governança e automação.
 
