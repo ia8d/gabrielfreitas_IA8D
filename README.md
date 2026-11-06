@@ -70,4 +70,5 @@ Com base acadêmica em Machine Learning e experiência prática como Co-Founder 
 
 ## 🚀 Filosofia de Engenharia
 
-> _"Sistemas de IA devem ser construídos sobre fundações sólidas de engenharia de software. O foco não é apenas implementar o modelo mais recente, mas garantir escalabilidade, segurança e integração impecável com a regra de negócios da organização."_
+> _"A verdadeira inovação em IA exige fundações sólidas de engenharia e segurança (Security by Design). O foco não é apenas orquestrar o modelo mais recente, mas garantir escalabilidade, conformidade estrita com a LGPD e proteção de dados ponta a ponta. Em um cenário global de ameaças cibernéticas crescentes, uma arquitetura de negócios só tem valor se for, antes de tudo, resiliente contra ataques e inviolável para o usuário."
+."_
