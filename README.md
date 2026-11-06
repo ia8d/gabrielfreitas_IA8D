@@ -6,8 +6,6 @@
 
 Eu projeto e construo **arquiteturas de automação robustas, pipelines de dados e agentes de Inteligência Artificial** para resolver problemas complexos de negócios e otimizar operações em escala.
 
-Com base acadêmica em Machine Learning e experiência prática como Co-Founder da Elumina IA, meu foco é integrar o ecossistema de LLMs a sistemas legados, CRMs e bancos de dados relacionais, garantindo segurança, governança e alta disponibilidade.
-
 ---
 
 ## 🌐 Onde me encontrar
