@@ -11,7 +11,7 @@ Eu projeto e construo **arquiteturas de automação robustas, pipelines de dados
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/ia8d](https://github.com/ia8d">
+  <a href="https://github.com/ia8d">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/gabriel-freitas-elumina/">
