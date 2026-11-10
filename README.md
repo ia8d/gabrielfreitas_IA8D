@@ -27,11 +27,26 @@ Eu projeto e construo **arquiteturas de automação robustas, pipelines de dados
 
 ---
 
+## 📌 Projetos em Destaque
+
+### 🏥 [MedX 2.0 — Healthcare CRM & AI Orchestration Suite](https://github.com/ia8d/med_2.0)
+*Plataforma de gestão clínica integrando teleconsultas, mensageria omnichannel e agentes clínicos de IA.*
+- **Arquitetura & Stack:** React, TypeScript, Supabase (PostgreSQL + RLS) e orquestração de microsserviços com **n8n**.
+- **IA Aplicada:** Resumo autônomo de anamnese pós-consulta, triagem conversacional e visão computacional (Gemini Flash) para leitura de exames.
+- **Demonstração:** [Assista ao vídeo funcional do MVP](https://drive.google.com/file/d/11y7Prq2dOGacBoZNM21hU4B9ZLbkeG9a/view?usp=sharing).
+
+### 📊 [Social Media Audit Pipeline — Pesquisa Acadêmica](https://github.com/ia8d/coletor_dados_do_instagram_X)
+*Infraestrutura resiliente de extração e auditoria de dados desenvolvida para apoiar pesquisa de Doutorado em Sociologia.*
+- **Engenharia de Dados:** Pipeline com Node.js, Playwright e Docker para contingência de coletas massivas (+96 mil interações estruturadas).
+- **Integridade & Governança:** Sistema de checkpoints com cursor para tolerância a falhas, amostragem reproduzível e validação de pacotes via hash **SHA-256**.
+
+---
+
 ## 🧠 O que eu construo (Core Competencies)
 
 - ⚙️ **Arquitetura de Automação & Integração de APIs:** Desenvolvimento de fluxos escaláveis conectando múltiplos sistemas (ERPs, CRMs) via n8n e arquitetura de microsserviços.
-- 🤖 **Engenharia de LLMs & Agentes Autônomos:** Implementação de soluções de IA conversacional (Evolution API, OpenAI, Anthropic) com foco em confiabilidade e redução de alucinações.
-- 📊 **Engenharia de Dados & Web Scraping:** Construção de pipelines para extração, tratamento e estruturação de grandes volumes de dados para alimentar modelos preditivos e bases vetoriais.
+- 🤖 **Engenharia de LLMs & Agentes Autônomos:** Implementação de soluções de IA conversacional (Evolution API, OpenAI, Anthropic, Gemini) com foco em confiabilidade e controle de hand-off.
+- 📊 **Engenharia de Dados & Web Scraping:** Construção de pipelines para extração, tratamento e estruturação de grandes volumes de dados para alimentar bancos relacionais e vetoriais.
 - 💻 **AI-Assisted Software Engineering:** Prototipagem ágil e desenvolvimento de soluções customizadas utilizando boas práticas de engenharia de software assistida por IA.
 
 ---
@@ -41,7 +56,7 @@ Eu projeto e construo **arquiteturas de automação robustas, pipelines de dados
 ### Inteligência Artificial & Dados
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black)
 
 ### Arquitetura, Backend & Bancos de Dados
@@ -60,11 +75,9 @@ Eu projeto e construo **arquiteturas de automação robustas, pipelines de dados
 ## 📊 Métricas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ia8d&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ia8d&layout=compact&theme=tokyonight" />
 </p>
-
----
 
 ---
 
